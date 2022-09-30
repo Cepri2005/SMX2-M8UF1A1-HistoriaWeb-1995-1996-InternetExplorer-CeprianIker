@@ -4,7 +4,7 @@ Internet Explorer es un navegador web que fue lanzado en agosto de 1995 por Micr
 
 ![Internet Explorer](https://github.com/Cepri2005/SMX2-M8UF1A1-HistoriaWeb-1995-1996-InternetExplorer1.0-CeprianIker/blob/main/450_1000.png)
 
-## Historia de Internet Explorer
+## __Historia de Internet Explorer__
 Internet Explorer fue mostrado al mundo con su primera version en el 1995 para Windows 95 siendo un complemento de Microsoft Plus con el nombre de Microsoft Internet Explorer
 
 Posteriormente este pasaria a la version 1.5 que fue lanzada unos meses despues para Windows NT. Al permitirse que el Sistema Operativo trajera consigo de forma gratuita el navegador web para evitar pagar a Spyglas inc acabo en demanda y una compensacion economica de millones de dolares 
