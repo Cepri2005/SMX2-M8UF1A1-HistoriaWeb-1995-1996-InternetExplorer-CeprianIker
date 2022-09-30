@@ -1,6 +1,6 @@
 # InternetExplorer1.0
 ## Que es Internet Explorer
-Internet Explorer es un navegador web que fue lanzado en agosto de 1995 por Microsoft para su sistema operativo llamado Microsoft Windows, este navegador ha sido el mas utilizado durante muchos años, el pico maximo de utilizacion de este navegador es del __95%__ en 2002 y 2003 
+Internet Explorer es un navegador web que fue lanzado en agosto de 1995 por Microsoft para su sistema operativo llamado Microsoft Windows, este navegador ha sido el mas utilizado durante muchos años, el pico maximo de utilizacion de este navegador es del 95% en 2002 y 2003 
 
 ![Internet Explorer](https://github.com/Cepri2005/SMX2-M8UF1A1-HistoriaWeb-1995-1996-InternetExplorer1.0-CeprianIker/blob/main/450_1000.png)
 
